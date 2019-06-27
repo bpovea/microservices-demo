@@ -31,4 +31,5 @@ Use [Weave Scope](http://weave.works/products/weave-scope/) or [Weave Cloud](htt
 ## Integrantes
 
 Byron Povea Murillo
+Richard Robayo Zapata
 
