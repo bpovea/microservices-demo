@@ -30,6 +30,7 @@ Use [Weave Scope](http://weave.works/products/weave-scope/) or [Weave Cloud](htt
 
 ## Integrantes
 
+Irene Córdova Tobar
 Byron Povea Murillo
 Richard Robayo Zapata
 
